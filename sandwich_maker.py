@@ -1,3 +1,4 @@
+#!Python 3.8 - Página 198 del libro 'AUTOMATE THE BORING STUFF WITH PYTHON'
 import pyinputplus as pyip
 import time
 #   Bienvenida
